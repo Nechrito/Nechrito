@@ -1,16 +1,23 @@
-### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=Nechrito&count_private=true&show_icons=true&theme=dracula" />
 
-<!--
-**Nechrito/Nechrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nechrito&private=true&show_icons=true&theme=dracula" />
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me
+
+[<img align="left" alt="nechrito.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+[website]: http://nechrito.org/
+[twitter]: https://twitter.com/N3chrito
+[instagram]: https://instagram.com/Hobbygroggare
+[linkedin]: https://www.linkedin.com/in/philip-lindh-599707199/
