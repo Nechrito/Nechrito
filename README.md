@@ -1,13 +1,27 @@
-## About me
-<pre>
-Game & Backend Developer who started my journey back in 2015, now trying to find a place to settle down for a while
-</pre>
+<h1 align="left">Philip AKA Nechrito 🎉</h1>
+<h3 align="left">Game & Backend Developer who started my journey back in 2015, now trying to find a place to settle down for a while</h3>
+
+<br />
+
+## Spotify
+[![Spotify](https://novatorem-q5fwa8b04-nechrito.vercel.app/api/spotify)](https://open.spotify.com/user/1115001981)
+
+
+---
+
 ## Github statistics
 
-<pre>
-Note that these statistics does not consider repositories amongst other platforms nor represent my knowledge accumulated within the last 7 years
+<h3>
+Note that these statistics does not represent my knowledge accumulated within the last 7 years
 ~50% of the repositories are private due to freelance projects and security as I work as a backend developer
-</pre>
+</h3>
+<br />
+
+<p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=nechrito" alt="nechrito" />
+    </a>
+</p>
 
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 <!-- &hide=stars,commits,prs,issues,contribs -->
@@ -15,6 +29,8 @@ Note that these statistics does not consider repositories amongst other platform
 <img align=center height=205 src="https://github-readme-stats-nechrito.vercel.app/api?username=Nechrito&count_private=true&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true" />
 
 <img align=center src="https://github-readme-stats-nechrito.vercel.app/api/top-langs?username=Nechrito&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&layout=compact" />
+
+---
 
 ## Social media
 
