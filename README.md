@@ -8,16 +8,7 @@
 
 
 
-<img align="center" src="https://github-readme-stats-nechrito.vercel.app/api?
-username=Nechrito
-&count_private=true
-&theme=tokyonight
-&show_icons=true
-&hide_border=true
-&show_owner=true
-&custom_title=Nechrito
-&include_all_commits=true" />
-
+<img src="https://github-readme-stats-nechrito.vercel.app/api?username=Nechrito&count_private=true&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true" />
 
 <br />
 <br />
