@@ -1,16 +1,18 @@
-<h1 align="left">Philip AKA Nechrito 🎉</h1>
+<h1 align="left">Philip AKA Nechrito 🎉</h1> 
 <h3 align="left">Game & Backend Developer who started my journey back in 2015, now trying to find a place to settle down for a while</h3>
 
-## Spotify
+<img align=center src="https://visitor-badge.glitch.me/badge?page_id=nechrito.visitor-badge" />
+
+## Spotify 
 [![Spotify](https://novatorem-q5fwa8b04-nechrito.vercel.app/api/spotify)](https://open.spotify.com/user/1115001981)
 
-## Github statistics
 
+## Github statistics
 <h3>
-Note that these statistics does not represent my knowledge accumulated within the last 7 years
+Note that these statistics does not represent my knowledge accumulated within the last 7 years,
 ~50% of the repositories are private due to freelance projects and security as I work as a backend developer
 </h3>
-<br />
+
 
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 <!-- &hide=stars,commits,prs,issues,contribs -->
