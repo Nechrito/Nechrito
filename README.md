@@ -3,9 +3,35 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nechrito&count_private=true&show_icons=true&theme=dracula" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nechrito&private=true&show_icons=true&theme=dracula" />
+<!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+<!-- &hide=stars,commits,prs,issues,contribs -->
 
+<a>
+  <img align="center" src="https://github-readme-stats-nechrito.vercel.app/api/top-langs/?
+username=Nechrito
+&count_private=true
+&theme=tokyonight
+&show_icons=true
+&hide_border=true
+&langs_count=3
+&show_owner=true
+&include_all_commits=true" />
+</a>
+
+<a>
+  <img align="center" src="https://github-readme-stats-nechrito.vercel.app/api?
+username=Nechrito
+&count_private=true
+&theme=tokyonight
+&show_icons=true
+&hide_border=true
+&show_owner=true
+&custom_title=Nechrito
+&include_all_commits=true" />
+</a>
+
+
+<br />
 <br />
 
 ## Social media
