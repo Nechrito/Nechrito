@@ -6,15 +6,7 @@
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 <!-- &hide=stars,commits,prs,issues,contribs -->
 
-<img align="center" src="https://github-readme-stats-nechrito.vercel.app/api/top-langs/?
-username=Nechrito
-&count_private=true
-&theme=tokyonight
-&show_icons=true
-&hide_border=true
-&langs_count=3
-&show_owner=true
-&include_all_commits=true" />
+
 
 <img align="center" src="https://github-readme-stats-nechrito.vercel.app/api?
 username=Nechrito
