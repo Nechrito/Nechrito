@@ -3,10 +3,9 @@
 
 <br />
 
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nechrito&private=true&show_icons=true&theme=dracula" />
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=Nechrito&count_private=true&show_icons=true&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nechrito&count_private=true&show_icons=true&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nechrito&private=true&show_icons=true&theme=dracula" />
 
-<br />
 <br />
 
 ## Social media
@@ -21,37 +20,46 @@
 
 ## Languages
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/csharp.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/cplusplus.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/python.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/lua.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/java.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/swift.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/csharp.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/cplusplus.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/python.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/lua.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/java.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/swift.svg" />
 
 <br />
 <br />
 
 ## Tools commonly used, provided by companies
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/github.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/git.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/cmake.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/dotnet.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/github.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/git.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/cmake.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/dotnet.svg" />
+
 <br />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/azuredevops.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/azurepipelines.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/microsoftazure.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/npm.svg" />
 <br />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/unity.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/unrealengine.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/mysql.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/opengl.svg" />
+
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/azuredevops.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/azurepipelines.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/microsoftazure.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/npm.svg" />
+
 <br />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/vulkan.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/ios.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/androidstudio.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/oculus.svg" />
+<br />
+
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/unity.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/unrealengine.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/mysql.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/opengl.svg" />
+
+<br />
+<br />
+
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/vulkan.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/ios.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/androidstudio.svg" />
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/oculus.svg" />
 
 [website]: http://nechrito.org/
 [twitter]: https://twitter.com/N3chrito
