@@ -1,14 +1,13 @@
 <h1 align="left">Philip AKA Nechrito 🎉</h1> 
 <h3 align="left">Game & Backend Developer who started my journey back in 2015, now trying to find a place to settle down for a while</h3>
 
-<img align=center src="https://visitor-badge.glitch.me/badge?page_id=nechrito.visitor-badge" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=nechrito.visitor-badge" />
 
 ## Spotify 
 [![Spotify](https://novatorem-q5fwa8b04-nechrito.vercel.app/api/spotify)](https://open.spotify.com/user/1115001981)
 
-
 ## Github statistics
-<h3>
+<h3 align="left">
 Note that these statistics does not represent my knowledge accumulated within the last 7 years,
 ~50% of the repositories are private due to freelance projects and security as I work as a backend developer
 </h3>
@@ -18,19 +17,19 @@ Note that these statistics does not represent my knowledge accumulated within th
 <!-- &hide=stars,commits,prs,issues,contribs -->
 
 <p align="left">
-    <img align=center height=205 src="https://github-readme-stats-nechrito.vercel.app/api?username=Nechrito&count_private=true&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true" />
+    <img align=top height=205 src="https://github-readme-stats-nechrito.vercel.app/api?username=Nechrito&count_private=true&theme=dracula&show_icons=true&include_all_commits=true" />
 </p>
 
 <p align="left">
-    <img align=center src="https://github-readme-stats-nechrito.vercel.app/api/top-langs?username=Nechrito&count_private=true&theme=dracula&hide_border=true&include_all_commits=true&layout=compact" />
+    <img align=top src="https://github-readme-stats-nechrito.vercel.app/api/top-langs?username=Nechrito&count_private=true&theme=dracula&include_all_commits=true&layout=compact" />
 </p>
 
 <p align="left">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nechrito&theme=dracula" alt="nechrito" />
+    <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=nechrito&theme=dracula" alt="nechrito" />
 </p>
 
 <p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=nechrito&theme=dracula" alt="nechrito" />
+    <img align="top" src="https://github-profile-trophy.vercel.app/?username=nechrito&theme=dracula" alt="nechrito" />
 </p>
 
 
