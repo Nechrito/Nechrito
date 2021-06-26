@@ -1,13 +1,14 @@
-# Github statistics
-### ~50% of the repositories are private due to freelance projects and security as I work as a backend developer
-
-<br />
+## Github statistics
+~50% of the repositories are private due to freelance projects and security as I work as a backend developer
 
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 <!-- &hide=stars,commits,prs,issues,contribs -->
 
-<img height=205 src="https://github-readme-stats-nechrito.vercel.app/api?username=Nechrito&count_private=true&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true" />
-<img src="https://github-readme-stats-nechrito.vercel.app/api/top-langs?username=Nechrito&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&langs_count=3" />
+<img align=center height=205 src="https://github-readme-stats-nechrito.vercel.app/api?username=Nechrito&count_private=true&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true" />
+
+<br />
+
+<img align=center src="https://github-readme-stats-nechrito.vercel.app/api/top-langs?username=Nechrito&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true&layout=compact" />
 
 <br />
 
@@ -19,6 +20,7 @@
 [<img height="32" width="32" align="left" alt="Nechrito | Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
 ## Languages
 
@@ -29,6 +31,7 @@
 <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/java.svg" />
 <img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/swift.svg" />
 
+<br />
 <br />
 
 ## Tools commonly used, provided by companies
