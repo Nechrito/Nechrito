@@ -1,5 +1,13 @@
+## About me
+<pre>
+Game & Backend Developer who started my journey back in 2015, now trying to find a place to settle down for a while
+</pre>
 ## Github statistics
+
+<pre>
+Note that these statistics does not consider repositories amongst other platforms nor represent my knowledge accumulated within the last 7 years
 ~50% of the repositories are private due to freelance projects and security as I work as a backend developer
+</pre>
 
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 <!-- &hide=stars,commits,prs,issues,contribs -->
