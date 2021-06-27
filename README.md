@@ -73,18 +73,18 @@ Note that these statistics does not represent my knowledge accumulated within th
 <br />
 <br />
 
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" style="background-color:white"/>
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" style="background-color:white"/>
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" style="background-color:white;"/>
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" style="background-color:white;"/>
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png" />
 
 <br />
 <br />
 
-<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/vulkan.svg" style="background-color:white"/>
-<img align="left" height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-64/ios-apple-572947.png" style="background-color:white"/>
-<img align="left" height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-64/android-247-1175275.png"style="background-color:white" />
-<img align="left" height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-64/oculus-3521617-2945061.png" style="background-color:white"/>
+<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/vulkan.svg" style="background-color:white;"/>
+<img align="left" height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-64/ios-apple-572947.png" style="background-color:white;"/>
+<img align="left" height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-64/android-247-1175275.png"style="background-color:white;" />
+<img align="left" height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-64/oculus-3521617-2945061.png" style="background-color:white;"/>
 
 [website]: http://nechrito.org/
 [twitter]: https://twitter.com/N3chrito
