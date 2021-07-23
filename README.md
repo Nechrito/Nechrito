@@ -73,7 +73,7 @@
 <!-- Most used languages -->
 <p>
     <!-- https://www.urlencoder.org/ -->
-    <img width=530 src="https://github-readme-stats-nechrito.vercel.app/api/top-langs?username=Nechrito&theme=dracula&count_private=true&include_all_commits=true&card_width=530&langs_count=10&layout=default&hide=html,tex,css,rpc,javascript,c,c%2B%2B,objective-c"/>
+    <img width=530 src="https://github-readme-stats-nechrito.vercel.app/api/top-langs?username=Nechrito&theme=dracula&count_private=true&include_all_commits=true&card_width=530&langs_count=10&layout=compact&hide=html,tex,css,rpc,javascript,c,c%2B%2B,objective-c"/>
 </p>
 
 [website]:   http://nechrito.org/
