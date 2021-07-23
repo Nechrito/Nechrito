@@ -10,11 +10,9 @@
     </p>
 </p> 
 
-<br/>
-
 # Socials & Preferences
 
-## Social media
+### Portfolio & Social Media
 
 [<img height="32" width="32" align="left" alt="nechrito.org" src="https://cdn.iconscout.com/icon/free/png-64/internet-2359147-1971067.png" />][website]
 [<img height="32" width="32" align="left" alt="Nechrito | LinkedIn" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" />][linkedin]
@@ -24,7 +22,7 @@
 <br />
 <br />
 
-## Languages
+### Languages
 
 <img align="left" height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-64/csharp-1-1175241.png" />
 <img align="left" height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-64/cplusplus-3521365-2944809.png" />
@@ -36,7 +34,7 @@
 <br />
 <br />
 
-## Commonly Used Tools & Services
+### Commonly Used Tools & Services
 
 <img align="left" height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-64/github-40-432516.png" />
 <img align="left" height="32" width="32" src="https://cdn.iconscout.com/icon/free/png-64/git-225996.png" />
@@ -80,23 +78,18 @@
     <!-- Most used languages -->
     <h4>This is rather far from true, I am heavily experienced with C#, Lua, Java, C++ & Python</h4>
     <p>
-        <img src="https://github-readme-stats-nechrito.vercel.app/api/top-langs?username=Nechrito&count_private=true&theme=dracula&include_all_commits=true&card_width=400&langs_count=10&layout=compact"/>
+        <img width=530 src="https://github-readme-stats-nechrito.vercel.app/api/top-langs?username=Nechrito&theme=dracula&count_private=true&include_all_commits=true&card_width=530&langs_count=10&layout=compact"/>
     </p>
 </p>
 
 <p>
     <!-- Github Stats -->
-    <img src="https://github-readme-stats-nechrito.vercel.app/api?username=Nechrito&count_private=true&theme=dracula&show_icons=true&include_all_commits=true">
+    <img width=530 src="https://github-readme-stats-nechrito.vercel.app/api?username=Nechrito&count_private=true&theme=dracula&show_icons=true&include_all_commits=true">
 </p>
 
 <p>
     <!-- Github Contributions -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nechrito&theme=dracula" alt="nechrito" />
-</p>
-
-<p>
-    <!-- Github Badges/Trophies -->
-    <img height=165 src="https://github-profile-trophy.vercel.app/?username=nechrito&theme=dracula" alt="nechrito" />
+    <img width=530 src="https://github-readme-streak-stats.herokuapp.com/?user=nechrito&theme=dracula" alt="nechrito" />
 </p>
 
 [website]:   http://nechrito.org/
