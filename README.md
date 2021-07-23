@@ -45,20 +45,6 @@
     <img height="24" width="24" src="https://cdn.iconscout.com/icon/free/png-64/npm-1767905-1502158.png"/>
 </p>
 
-<p>
-    <img height="24" width="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"/>
-    <img height="24" width="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png"/>
-    <img height="24" width="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>
-    <img height="24" width="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png"/>
-</p>
-
-<p>
-    <img height="24" width="24" src="https://unpkg.com/simple-icons@v5/icons/vulkan.svg"/>
-    <img height="24" width="24" src="https://cdn.iconscout.com/icon/free/png-64/ios-apple-572947.png"/>
-    <img height="24" width="24" src="https://cdn.iconscout.com/icon/free/png-64/android-247-1175275.png"/>
-    <img height="24" width="24" src="https://cdn.iconscout.com/icon/free/png-64/oculus-3521617-2945061.png"/>
-</p>
-
 ## Github Statistics
 
 <!-- Colors -->
