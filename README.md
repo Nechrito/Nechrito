@@ -1,4 +1,3 @@
-
 <h1 align="left">Philip AKA Nechrito 🎉
     <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=nechrito.visitor-badge"/> -->
 </h1>
@@ -66,17 +65,15 @@
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 <!-- &hide=stars,commits,prs,issues,contribs -->
 
+<!-- Github Contributions -->
 <p>
-    <!-- Most used languages -->
-    <h4>This is rather far from true, I am far more experienced with C#, Lua, Java, C++ & Python</h4>
-    <p>
-        <img width=530 src="https://github-readme-stats-nechrito.vercel.app/api/top-langs?username=Nechrito&theme=dracula&count_private=true&include_all_commits=true&card_width=530&langs_count=10&layout=compact"/>
-    </p>
+    <img width=530 src="https://github-readme-streak-stats.herokuapp.com/?user=nechrito&theme=dracula" alt="nechrito"/>
 </p>
 
+<!-- Most used languages -->
 <p>
-    <!-- Github Contributions -->
-    <img width=530 src="https://github-readme-streak-stats.herokuapp.com/?user=nechrito&theme=dracula" alt="nechrito"/>
+    <!-- https://www.urlencoder.org/ -->
+    <img width=530 src="https://github-readme-stats-nechrito.vercel.app/api/top-langs?username=Nechrito&theme=dracula&count_private=true&include_all_commits=true&card_width=530&langs_count=10&layout=default&hide=html,tex,css,rpc,javascript,c,c%2B%2B,objective-c"/>
 </p>
 
 [website]:   http://nechrito.org/
