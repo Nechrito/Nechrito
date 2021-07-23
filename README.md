@@ -59,7 +59,7 @@
     <img height="24" width="24" src="https://cdn.iconscout.com/icon/free/png-64/oculus-3521617-2945061.png"/>
 </p>
 
-# Github Statistics
+## Github Statistics
 
 <!-- Colors -->
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
