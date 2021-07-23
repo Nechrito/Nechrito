@@ -29,22 +29,6 @@
     <img height="24" width="24" src="https://cdn.iconscout.com/icon/free/png-64/swift-282412.png"/>
 </p>
 
-### Commonly Used Tools & Services
-
-<p>
-    <img height="24" width="24" src="https://cdn.iconscout.com/icon/free/png-64/github-40-432516.png"/>
-    <img height="24" width="24" src="https://cdn.iconscout.com/icon/free/png-64/git-225996.png"/>
-    <img height="24" width="24" src="https://cdn.iconscout.com/icon/free/png-64/cmake-3521346-2944790.png"/>
-    <img height="24" width="24" src="https://cdn.iconscout.com/icon/free/png-64/microsoft-dotnet-1175177.png"/>
-</p>
-
-<p>
-    <img height="24" width="24" src="https://cdn.iconscout.com/icon/free/png-64/azure-devops-3628645-3029870.png"/>
-    <img height="24" width="24" src="https://cdn.iconscout.com/icon/free/png-64/azure-1-190761.png"/>
-    <img height="24" width="24" src="https://cdn.iconscout.com/icon/free/png-64/azure-1868965-1583129.png"/>
-    <img height="24" width="24" src="https://cdn.iconscout.com/icon/free/png-64/npm-1767905-1502158.png"/>
-</p>
-
 ## Github Statistics
 
 <!-- Colors -->
