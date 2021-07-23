@@ -10,7 +10,7 @@
     </p>
 </p> 
 
-# Socials & Preferences
+## Socials & Preferences
 
 ### Portfolio & Social Media
 
@@ -68,15 +68,10 @@
 
 <p>
     <!-- Most used languages -->
-    <h4>This is rather far from true, I am heavily experienced with C#, Lua, Java, C++ & Python</h4>
+    <h4>This is rather far from true, I am far more experienced with C#, Lua, Java, C++ & Python</h4>
     <p>
         <img width=530 src="https://github-readme-stats-nechrito.vercel.app/api/top-langs?username=Nechrito&theme=dracula&count_private=true&include_all_commits=true&card_width=530&langs_count=10&layout=compact"/>
     </p>
-</p>
-
-<p>
-    <!-- Github Stats -->
-    <img width=530 src="https://github-readme-stats-nechrito.vercel.app/api?username=Nechrito&count_private=true&theme=dracula&show_icons=true&include_all_commits=true">
 </p>
 
 <p>
