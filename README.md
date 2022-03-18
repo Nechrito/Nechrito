@@ -27,6 +27,7 @@
     <img height="24" width="24" src="https://cdn.iconscout.com/icon/free/png-64/lua-3521554-2944972.png"/>
     <img height="24" width="24" src="https://cdn.iconscout.com/icon/free/png-64/java-3628857-3029997.png"/>
     <img height="24" width="24" src="https://cdn.iconscout.com/icon/free/png-64/swift-282412.png"/>
+    <img height="24" width="24" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_godot_icon_130566.png"/>
 </p>
 
 ## Github Statistics
