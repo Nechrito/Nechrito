@@ -2,10 +2,10 @@
     <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=nechrito.visitor-badge"/> -->
 </h1>
 <p>
-    <h4>Game & Backend Developer who started my journey back in 2015, now trying to find a place to settle down for a while</h4>
+    <h4>Game & Backend Developer who started my journey back in 2015</h4>
     <p>
-        <h4><strong>Note</strong> that these statistics does not represent my knowledge accumulated within the last 6 years.</h4>
-        <h4><em>Most of the repositories are private due to freelance projects and security as I work as a backend developer</em></h4>
+        <h4><strong>Note</strong> that these statistics does not represent my knowledge accumulated within the last 6½ years.</h4>
+        <h4><em>Most of the repositories are private due to freelance projects and security</em></h4>
     </p>
 </p> 
 
