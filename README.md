@@ -1,36 +1,45 @@
-<h1 align="left">Philip AKA Nechrito 🎉
-    <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=nechrito.visitor-badge"/> -->
-</h1>
-<p>
-    <h4>Game & Backend Developer who started my journey back in 2015</h4>
-    <p>
-        <h4><strong>Note</strong> that these statistics does not represent my knowledge accumulated within the last 6½ years.</h4>
-        <h4><em>Most of the repositories are private due to freelance projects and security</em></h4>
-    </p>
-</p> 
+# **Philip Lindh**
 
-## Socials & Preferences
+### Specializing in ***Game, Financial Forecasting, Scraping, AI, Botting & Tools Development***
 
-### Portfolio & Social Media
 
-[<img height="24" width="24" alt="nechrito.org" src="https://cdn.iconscout.com/icon/free/png-64/internet-2359147-1971067.png"/>][website]
-[<img height="24" width="24" alt="Nechrito | LinkedIn" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png"/>][linkedin]
-[<img height="24" width="24" alt="Nechrito | Instagram" src="https://cdn.iconscout.com/icon/free/png-64/instagram-188-498425.png"/>][instagram]
-[<img height="24" width="24" alt="Nechrito | Twitter" src="https://cdn.iconscout.com/icon/free/png-64/twitter-241-721979.png"/>][twitter]
-
-### Languages
+## **Proficiencies**
 
 <p>
-    <img height="24" width="24" src="https://cdn.iconscout.com/icon/free/png-64/csharp-1-1175241.png"/>
-    <img height="24" width="24" src="https://cdn.iconscout.com/icon/free/png-64/cplusplus-3521365-2944809.png"/>
-    <img height="24" width="24" src="https://cdn.iconscout.com/icon/free/png-64/python-3628999-3030224.png"/>
-    <img height="24" width="24" src="https://cdn.iconscout.com/icon/free/png-64/lua-3521554-2944972.png"/>
-    <img height="24" width="24" src="https://cdn.iconscout.com/icon/free/png-64/java-3628857-3029997.png"/>
-    <img height="24" width="24" src="https://cdn.iconscout.com/icon/free/png-64/swift-282412.png"/>
-    <img height="24" width="24" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_godot_icon_130566.png"/>
+    <img height="42" width="42" src="https://cdn.iconscout.com/icon/free/png-64/csharp-1-1175241.png"/>
+    <img height="42" width="42" src="https://cdn.iconscout.com/icon/free/png-64/cplusplus-3521365-2944809.png"/>
+    <img height="42" width="42" src="https://cdn.iconscout.com/icon/free/png-64/python-3628999-3030224.png"/>
+    <img height="42" width="42" src="https://cdn.iconscout.com/icon/free/png-64/lua-3521554-2944972.png"/>
+    <img height="42" width="42" src="https://cdn.iconscout.com/icon/free/png-64/java-3628857-3029997.png"/>
+    <img height="42" width="42" src="https://cdn.iconscout.com/icon/free/png-64/swift-282412.png"/>
+    <img height="42" width="42" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_godot_icon_130566.png"/>
 </p>
 
-## Github Statistics
+### **QUALIFICATIONS**
+
+Key Skills & Accomplishments:
+
+- Consistently achieved top marks in programming assignments, reflecting strong analytical and problem- solving abilities.
+  
+- Served as Tech Lead in all group projects from 2015-2021, demonstrating strong leadership and teamwork.
+
+- Passionate about coding since high school, continuously refining my expertise.
+
+- Demonstrated adaptability through proficiency in various frameworks, ensuring seamless integration into new environments.
+
+- Created an efficient crypto bot utilizing machine learning, fundamental, sentimental, and technical analysis, swiftly generating data, charts, and sentiments for thousands of tokens in seconds.
+
+### **ACHIEVEMENTS**
+
+- Consistently achieved top marks in programming assignments.
+- Served as Tech Lead in all group projects from 2015-2021.
+- Exhibited adaptability through experience with various frameworks.
+- Developed a high-performing crypto bot using Machine Learning, Fundamental, and Technical Analysis.
+
+## **Github Statistics**
+
+> **Note:** These statistics do not represent anything useful  
+> _Most of the repositories are private due to freelance projects and security_
 
 <!-- Colors -->
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
