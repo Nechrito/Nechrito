@@ -109,13 +109,9 @@ I'm Philip Lindh, a versatile full-stack developer and designer with a passion f
 - Created web scraping bots for comprehensive sentiment analysis
 - Designed numerous projects in graphic design, branding, and digital art
 
-## Projects
-
-For a detailed view of my work, please visit my [portfolio](https://www.philip-lindh.com/).
-
 ## Contact
 
-Feel free to reach out via my [portfolio's contact page](https://www.philip-lindh.com/contact).
+Feel free to reach out via my [portfolio](https://www.philip-lindh.com/contact/) or connect with me on [LinkedIn](https://www.linkedin.com/in/philip-lindh/).
 
 ## Let's Connect
 
