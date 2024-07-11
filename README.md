@@ -111,7 +111,7 @@ I'm Philip Lindh, a versatile full-stack developer and designer with a passion f
 
 ## Contact
 
-Feel free to reach out via my [portfolio](https://www.philip-lindh.com/contact/) or connect with me on [LinkedIn](https://www.linkedin.com/in/philip-lindh/).
+Feel free to reach out via my [portfolio](https://www.philip-lindh.com/) or connect with me on [LinkedIn](https://www.linkedin.com/in/philip-lindh/).
 
 ## Let's Connect
 
