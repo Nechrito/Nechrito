@@ -8,60 +8,72 @@ I'm Philip Lindh, a versatile full-stack developer and designer with a passion f
 
 ### Development
 
-<img src="res/cplusplus.svg" width="32" height="32" alt="C++"/>
-<img src="res/csharp.svg" width="32" height="32" alt="C#"/>
-<img src="res/java.svg" width="32" height="32" alt="Java"/>
-<img src="res/javascript.svg" width="32" height="32" alt="JavaScript"/>
-<img src="res/lua.svg" width="32" height="32" alt="Lua"/>
-<img src="res/python.svg" width="32" height="32" alt="Python"/>
-<img src="res/swift.svg" width="32" height="32" alt="Swift"/>
-<img src="res/typescript.svg" width="32" height="32" alt="TypeScript"/>
-<img src="res/html5.svg" width="32" height="32" alt="HTML5"/>
-<img src="res/nodejs.svg" width="32" height="32" alt="Node.js"/>
-<img src="res/android.svg" width="32" height="32" alt="Android"/>
-<img src="res/dotnetcore.svg" width="32" height="32" alt=".NET Core"/>
-<img src="res/pytorch.svg" width="32" height="32" alt="PyTorch"/>
-<img src="res/tensorflow.svg" width="32" height="32" alt="TensorFlow"/>
+<p>
+    <img src="res/cplusplus.svg" width="32" height="32" alt="C++"/>
+    <img src="res/csharp.svg" width="32" height="32" alt="C#"/>
+    <img src="res/java.svg" width="32" height="32" alt="Java"/>
+    <img src="res/javascript.svg" width="32" height="32" alt="JavaScript"/>
+    <img src="res/lua.svg" width="32" height="32" alt="Lua"/>
+    <img src="res/python.svg" width="32" height="32" alt="Python"/>
+    <img src="res/swift.svg" width="32" height="32" alt="Swift"/>
+    <img src="res/typescript.svg" width="32" height="32" alt="TypeScript"/>
+    <img src="res/html5.svg" width="32" height="32" alt="HTML5"/>
+    <img src="res/nodejs.svg" width="32" height="32" alt="Node.js"/>
+    <img src="res/android.svg" width="32" height="32" alt="Android"/>
+    <img src="res/dotnetcore.svg" width="32" height="32" alt=".NET Core"/>
+    <img src="res/pytorch.svg" width="32" height="32" alt="PyTorch"/>
+    <img src="res/tensorflow.svg" width="32" height="32" alt="TensorFlow"/>
+</p>
 
 ### Game Development
 
-<img src="res/godot.svg" width="32" height="32" alt="Godot"/>
-<img src="res/unity.svg" width="32" height="32" alt="Unity"/>
-<img src="res/unrealengine.svg" width="32" height="32" alt="Unreal Engine"/>
+<p>
+    <img src="res/godot.svg" width="32" height="32" alt="Godot"/>
+    <img src="res/unity.svg" width="32" height="32" alt="Unity"/>
+    <img src="res/unrealengine.svg" width="32" height="32" alt="Unreal Engine"/>
+</p>
 
 ### Tools & Environments
 
-<img src="res/docker.svg" width="32" height="32" alt="Docker"/>
-<img src="res/git.svg" width="32" height="32" alt="Git"/>
-<img src="res/github.svg" width="32" height="32" alt="GitHub"/>
-<img src="res/gitlab.svg" width="32" height="32" alt="GitLab"/>
-<img src="res/visualstudio.svg" width="32" height="32" alt="Visual Studio"/>
-<img src="res/vscode.svg" width="32" height="32" alt="VS Code"/>
-<img src="res/jetbrains.svg" width="32" height="32" alt="JetBrains"/>
-<img src="res/postman.svg" width="32" height="32" alt="Postman"/>
-<img src="res/jupyter.svg" width="32" height="32" alt="Jupyter"/>
+<p>
+    <img src="res/git.svg" width="32" height="32" alt="Git"/>
+    <img src="res/github.svg" width="32" height="32" alt="GitHub"/>
+    <img src="res/gitlab.svg" width="32" height="32" alt="GitLab"/>
+    <img src="res/visualstudio.svg" width="32" height="32" alt="Visual Studio"/>
+    <img src="res/vscode.svg" width="32" height="32" alt="VS Code"/>
+    <img src="res/jetbrains.svg" width="32" height="32" alt="JetBrains"/>
+    <img src="res/postman.svg" width="32" height="32" alt="Postman"/>
+    <img src="res/jupyter.svg" width="32" height="32" alt="Jupyter"/>
+    <img src="res/docker.svg" width="32" height="32" alt="Docker"/>
+</p>
 
 ### Databases
 
-<img src="res/mongodb.svg" width="32" height="32" alt="MongoDB"/>
-<img src="res/mysql.svg" width="32" height="32" alt="MySQL"/>
-<img src="res/postgresql.svg" width="32" height="32" alt="PostgreSQL"/>
-<img src="res/redis.svg" width="32" height="32" alt="Redis"/>
-<img src="res/sqlite.svg" width="32" height="32" alt="SQLite"/>
+<p>
+    <img src="res/mongodb.svg" width="32" height="32" alt="MongoDB"/>
+    <img src="res/mysql.svg" width="32" height="32" alt="MySQL"/>
+    <img src="res/postgresql.svg" width="32" height="32" alt="PostgreSQL"/>
+    <img src="res/redis.svg" width="32" height="32" alt="Redis"/>
+    <img src="res/sqlite.svg" width="32" height="32" alt="SQLite"/>
+</p>
 
 ### Design & Graphics
 
-<img src="res/blender.svg" width="32" height="32" alt="Blender"/>
-<img src="res/figma.svg" width="32" height="32" alt="Figma"/>
-<img src="res/photoshop.svg" width="32" height="32" alt="Photoshop"/>
+<p>
+    <img src="res/blender.svg" width="32" height="32" alt="Blender"/>
+    <img src="res/figma.svg" width="32" height="32" alt="Figma"/>
+    <img src="res/photoshop.svg" width="32" height="32" alt="Photoshop"/>
+</p>
 
 ### Platforms & Operating Systems
 
-<img src="res/windows11.svg" width="32" height="32" alt="Windows"/>
-<img src="res/linux.svg" width="32" height="32" alt="Linux"/>
-<img src="res/ubuntu.svg" width="32" height="32" alt="Ubuntu"/>
-<img src="res/android.svg" width="32" height="32" alt="Android"/>
-<img src="res/firebase.svg" width="32" height="32" alt="Firebase"/>
+<p>
+    <img src="res/windows11.svg" width="32" height="32" alt="Windows"/>
+    <img src="res/linux.svg" width="32" height="32" alt="Linux"/>
+    <img src="res/ubuntu.svg" width="32" height="32" alt="Ubuntu"/>
+    <img src="res/android.svg" width="32" height="32" alt="Android"/>
+    <img src="res/firebase.svg" width="32" height="32" alt="Firebase"/>
+</p>
 
 ## Key Achievements
 
