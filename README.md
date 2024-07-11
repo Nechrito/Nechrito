@@ -1,79 +1,122 @@
-# **Philip Lindh - Passionate Programmer Specializing in Game, Financial Forecasting, Scraping, AI, Botting & Tools Development**
+# Philip Lindh - Full-Stack Developer & Creative Professional
 
-## **About Me**
+## About Me
 
-I am a dedicated programmer with a fervent interest in game development, financial forecasting, and AI. Having started coding in high school, I have honed my skills over the years and have been working as a freelance developer since 2015. My experience spans a wide array of programming languages and frameworks, making me a quick learner and adaptable to new environments.
+I'm Philip Lindh, a versatile full-stack developer and designer with a passion for game development, financial prediction models, web scraping, AI, automation, and tool development. My journey in programming began in high school, and I've been working as a freelance developer and designer since 2015. My diverse experience across multiple programming languages and frameworks allows me to quickly adapt to new technologies and environments.
 
-## **QUALIFICATIONS**
+## Skills & Expertise
 
-**Key Skills & Accomplishments:**
-
-- Consistently achieved top marks in programming assignments, showcasing strong analytical and problem-solving abilities.
-
-- Served as Tech Lead in all group projects from 2015 to 2021, exemplifying robust leadership and teamwork capabilities.
-
-- Passionate about coding since high school, continually refining my expertise.
-
-- Demonstrated adaptability through proficiency in various frameworks, ensuring seamless integration into diverse projects.
-
-- Created an efficient crypto bot utilizing machine learning, fundamental analysis, sentimental analysis, and technical analysis. This bot rapidly generates data, charts, and sentiments for thousands of tokens within seconds.
-
-## **ACHIEVEMENTS**
-
-- Consistently achieved top marks in programming assignments.
-
-- Served as Tech Lead in all group projects from 2015 to 2021.
-
-- Exhibited adaptability through experience with various frameworks.
-
-- Developed a high-performing crypto bot using Machine Learning, Fundamental Analysis, and Technical Analysis.
-
-The crypto bot efficiently conducts simultaneous analyses on thousands of tokens, providing comprehensive data, charts, and sentiment analysis gathered from web scraping articles, Reddit, and Twitter. Its recommendations are generated promptly, and notably, it outperforms competitors in swiftly detecting Pump 'n Dump schemes.
-
-## **EDUCATIONAL BACKGROUND**
-
-I embarked on my programming journey in 2015 during my time in high school. After graduating in 2018, I pursued a degree in Computer Engineering with a focus on Game Development at the University. Throughout my academic and professional path, I have cultivated a strong aptitude for learning new programming languages, which instills in me the confidence to take on any role within the programmer spectrum.
-
----
-
-## **EXPERIENCE**
-
-### **Freelance Developer**
-
-#### **2015 - Present**
-
-- Developed a high-performing crypto bot using Machine Learning, Fundamental Analysis, and Technical Analysis.
-- The crypto bot efficiently conducts simultaneous analyses on thousands of tokens, providing comprehensive data, charts, and sentiment analysis gathered from web scraping articles, Reddit, and Twitter. Its recommendations are generated promptly, and notably, it outperforms competitors in swiftly detecting Pump 'n Dump schemes.
-- Created a bot that scrapes data from various websites, including Reddit, Twitter, and Google Trends, to provide comprehensive data and sentiment analysis on thousands of tokens.
-
-### **EDUCATION**
-
-#### **Bachelor of Science in Computer Engineering**
-
-#### **2018 - 2021**
-
-- Luleå Tekniska Universitet (LTU)
-- Computer Engineering with a focus on Game Development
-
----
-
-## **Frameworks**
+### Development
 
 <p>
-    <img src="res\unity.svg" width="42" height="42"/>
-    <img src="res\unreal.svg" width="42" height="42"/>
-    <img src="res/visual-studio-code.svg" width="42" height="42"/>
-    <img src="res/resharper.svg" width="42" height="42"/>
-</p> 
-
-## **Programming Languages**
-  
-<p>
-    <img src="res\csharp.svg" width="42" height="42"/>
-    <img src="res\c++.svg" width="42" height="42"/>
-    <img src="res/lua.svg" width="42" height="42"/>
-    <img src="res/python.svg" width="42" height="42"/>
-    <img src="res/java.svg" width="42" height="42"/>
-    <img src="res/swift.svg" width="42" height="42"/>
-    <img src="res/godot.svg" width="42" height="42"/>
+    <img src="res/cplusplus.svg" width="42" height="42" alt="C++"/>
+    <img src="res/csharp.svg" width="42" height="42" alt="C#"/>
+    <img src="res/java.svg" width="42" height="42" alt="Java"/>
+    <img src="res/javascript.svg" width="42" height="42" alt="JavaScript"/>
+    <img src="res/lua.svg" width="42" height="42" alt="Lua"/>
+    <img src="res/python.svg" width="42" height="42" alt="Python"/>
+    <img src="res/swift.svg" width="42" height="42" alt="Swift"/>
+    <img src="res/typescript.svg" width="42" height="42" alt="TypeScript"/>
+    <img src="res/html5.svg" width="42" height="42" alt="HTML5"/>
+    <img src="res/nodejs.svg" width="42" height="42" alt="Node.js"/>
+    <img src="res/android.svg" width="42" height="42" alt="Android"/>
+    <img src="res/dotnetcore.svg" width="42" height="42" alt=".NET Core"/>
+    <img src="res/pytorch.svg" width="42" height="42" alt="PyTorch"/>
+    <img src="res/tensorflow.svg" width="42" height="42" alt="TensorFlow"/>
 </p>
+
+### Game Development
+
+<p>
+    <img src="res/godot.svg" width="42" height="42" alt="Godot"/>
+    <img src="res/unity.svg" width="42" height="42" alt="Unity"/>
+    <img src="res/unrealengine.svg" width="42" height="42" alt="Unreal Engine"/>
+</p>
+
+### Tools & Environments
+
+<p>
+    <img src="res/docker.svg" width="42" height="42" alt="Docker"/>
+    <img src="res/git.svg" width="42" height="42" alt="Git"/>
+    <img src="res/github.svg" width="42" height="42" alt="GitHub"/>
+    <img src="res/gitlab.svg" width="42" height="42" alt="GitLab"/>
+    <img src="res/visualstudio.svg" width="42" height="42" alt="Visual Studio"/>
+    <img src="res/vscode.svg" width="42" height="42" alt="VS Code"/>
+    <img src="res/jetbrains.svg" width="42" height="42" alt="JetBrains"/>
+    <img src="res/postman.svg" width="42" height="42" alt="Postman"/>
+    <img src="res/jupyter.svg" width="42" height="42" alt="Jupyter"/>
+</p>
+
+### Databases
+
+<p>
+    <img src="res/mongodb.svg" width="42" height="42" alt="MongoDB"/>
+    <img src="res/mysql.svg" width="42" height="42" alt="MySQL"/>
+    <img src="res/postgresql.svg" width="42" height="42" alt="PostgreSQL"/>
+    <img src="res/redis.svg" width="42" height="42" alt="Redis"/>
+    <img src="res/sqlite.svg" width="42" height="42" alt="SQLite"/>
+</p>
+
+### Design & Graphics
+
+<p>
+    <img src="res/blender.svg" width="42" height="42" alt="Blender"/>
+    <img src="res/figma.svg" width="42" height="42" alt="Figma"/>
+    <img src="res/photoshop.svg" width="42" height="42" alt="Photoshop"/>
+</p>
+
+### Platforms & Operating Systems
+
+<p>
+    <img src="res/windows11.svg" width="42" height="42" alt="Windows"/>
+    <img src="res/linux.svg" width="42" height="42" alt="Linux"/>
+    <img src="res/ubuntu.svg" width="42" height="42" alt="Ubuntu"/>
+    <img src="res/android.svg" width="42" height="42" alt="Android"/>
+    <img src="res/firebase.svg" width="42" height="42" alt="Firebase"/>
+</p>
+
+## Key Achievements
+
+- Led technical teams across multiple projects, demonstrating strong leadership and teamwork skills.
+- Engineered a high-performing crypto bot using machine learning and sentiment analysis for market analysis and predictions.
+- Consistently achieved top marks in programming assignments throughout my academic career.
+- Served as Tech Lead in all group projects from 2015 to 2021.
+- Successfully integrated machine learning techniques for financial forecasting.
+- Extensive freelance work in design and development since 2015.
+
+## Education
+
+### Bachelor of Science in Engineering, Game Development
+
+**Luleå Tekniska Universitet (2018 - 2021)**
+
+- Focused on advanced game development courses
+- Received excellent grades in all programming projects
+- Awarded two paid scholarships for game development projects
+
+### Computer Game Programming
+
+**LBS Kreativa Gymnasiet (2015 - 2018)**
+
+- Discovered passion for programming
+- Served as Tech Lead for all group projects
+
+## Professional Experience
+
+### Freelance Developer and Designer (2015 - Present)
+
+- Developed a high-performing crypto bot using ML, FA, and TA
+- Created web scraping bots for comprehensive sentiment analysis
+- Designed numerous projects in graphic design, branding, and digital art
+
+## Projects
+
+For a detailed view of my work, please visit my [portfolio](https://www.philip-lindh.com/).
+
+## Contact
+
+Feel free to reach out via my [portfolio's contact page](https://www.philip-lindh.com/contact).
+
+## Let's Connect
+
+I'm always eager to take on new challenges and collaborate on innovative projects. Let's connect and create something amazing together!
